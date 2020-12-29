@@ -14,8 +14,8 @@ This is the repository for CSC258 2020 Fall Final Project of Doodle Jump
   1. Download MARS http://courses.missouristate.edu/kenvollmar/mars/download.htm
   2. Open the file called doodlejump.s in MARS
   3. Set up display: Tools > Bitmap display
-     Set parameters like unit width & height (8), display width & height (256) and base address 0x10008000 for display. 
-     Click “Connect to MIPS” once these are set.
+     - Set parameters like unit width & height (8), display width & height (256) and base address 0x10008000 for display. 
+     - Click “Connect to MIPS” once these are set.
   4. Setup keyboard: Tools > Keyboard and Display MMIO Simulator 
      Click “Connect to MIPS”
   5. Run your program:
